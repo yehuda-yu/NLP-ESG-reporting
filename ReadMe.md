@@ -1,5 +1,3 @@
-![Open In Colab](https://colab.research.google.com/drive/1x-Z3Htdfioy7T2ol8YvW25QPjEotkett?authuser=1&pli=1&usp=drive_fs#scrollTo=A4-FcvrJ07Lx&uniqifier=1)
-
 # Analysis of ESG Disclosure in Corporate Annual Reports
 
 ### Project by: Yehuda Yungstein (205487143) 
