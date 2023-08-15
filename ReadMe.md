@@ -1,6 +1,6 @@
 # Analysis of ESG Disclosure in Corporate Annual Reports
 
-### Project by: Yehuda Yungstein (205487143) 
+### Project by: Yehuda Yungstein 
 
 This project analyzes environmental, social, and governance (ESG) disclosures from the annual reports of 500 companies using natural language processing models.
 
